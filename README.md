@@ -1,5 +1,5 @@
 # key-board-hook
-基于win32api与mingw的底层键盘钩子
+基于win32api的底层键盘钩子
 
 # 使用
 程序通过main.cpp中的"outfile_path"宏定义的文件记录键盘按键
